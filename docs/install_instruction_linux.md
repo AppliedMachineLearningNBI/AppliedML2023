@@ -56,7 +56,8 @@ Close your terminal and open a new one. When you type in `anaconda3`, your new a
 * If you don't have git installed on your laptop, install it by following [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-linux-md)
 
 * Clone the Applied ML repository using the command 
-`git clone https://https://github.com/troelspetersen/AppliedML2023 ./AppML2023_local/`. 
+   `git clone https://github.com/AppliedMachineLearningNBI/AppliedML2023.git .`
+
  Feel free to choose another name for your folder, or just use "." if you want to use the same name (i.e. "AppliedML2023"), which is default/common.
 
 * You now have a local copy of the repository
